@@ -1,7 +1,7 @@
-<h1 align="center">¡Hola! Soy Zaid Vázquez 👋</h1>
+<h1 align="center">Hi, I'm Zaid </h1>
 
 <p align="center">
-  Ingeniero de Software (próximo a egresar) · Backend & Full-Stack Dev · Xalapa, México 🇲🇽
+  Software Engineer (Final-Year Student) · Backend & Full-Stack Dev · Mexico
 </p>
 
 <p align="center">
@@ -11,23 +11,23 @@
 
 ---
 
-### 🚀 Sobre mí
+### About Me
 
-Estudiante de último año de Ingeniería de Software en la Universidad Veracruzana, con experiencia real auditando código y contenido generado por IA (LLMs) — lo que me dio un ojo entrenado para detectar errores de lógica, sintaxis y arquitectura antes de que lleguen a producción.
+Final-year Software Engineering student at Universidad Veracruzana, with hands-on experience auditing AI-generated code and content — which trained a sharp eye for catching logic, syntax, and architecture errors before they reach production.
 
-Construyo aplicaciones full-stack, desde videojuegos de escritorio hasta plataformas de streaming, y actualmente estoy expandiendo mi stack hacia **Go, Python y Next.js**.
+I build full-stack applications, from desktop video games to streaming platforms, and I'm currently expanding my stack toward **Go, Python, and Next.js**.
 
-- 🔭 Actualmente construyendo proyectos backend con **Go + PostgreSQL + Next.js**
-- 🌱 Aprendiendo y reforzando: **Go, Python, Next.js**
-- 💼 A punto de iniciar una pasantía remota en desarrollo de aplicaciones web
-- 🎯 Buscando mi primer rol full-time como **Junior Software Engineer (Backend/Full-Stack)** en CDMX o remoto
-- 💬 Pregúntame sobre Java, C#, Vue.js, Docker o arquitectura de aplicaciones cliente-servidor
+- Currently building backend projects with **Go + PostgreSQL + Next.js**
+- Learning & sharpening: **Go, Python, Next.js**
+- About to start a remote web application development internship
+- Looking for my first full-time role as a **Junior Software Engineer (Backend/Full-Stack)** in Mexico City or remote
+- Ask me about Java, C#, Vue.js, Docker, or client-server application architecture
 
 ---
 
-### 🛠️ Stack
+### Tech Stack
 
-**Lenguajes**
+**Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -45,7 +45,7 @@ Construyo aplicaciones full-stack, desde videojuegos de escritorio hasta platafo
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=windows&logoColor=white)
 
-**Datos & DevOps**
+**Data & DevOps**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
@@ -57,35 +57,35 @@ Construyo aplicaciones full-stack, desde videojuegos de escritorio hasta platafo
 
 ---
 
-### 🌟 Proyectos destacados
+### Featured Projects
 
-#### 🎮 [ExamExplosion](https://github.com/zaidoskate/ExamExplosion)
-Videojuego de escritorio desarrollado en **C# / WPF (.NET Framework)** bajo un modelo cliente-servidor, con persistencia de datos **contenerizada en Docker**.
+#### [ExamExplosion](https://github.com/zaidoskate/ExamExplosion)
+Desktop video game built with **C# / WPF (.NET Framework)** using a client-server model, with **Dockerized** data persistence.
 `C#` `WPF` `.NET Framework` `Docker` `Client-Server`
 
-#### 🎵 [Daztl](https://github.com/zaidoskate/DaztlServer) — Plataforma de streaming musical
-Ecosistema completo tipo Spotify, dividido en tres repositorios: servidor (**Python / Django REST Framework**), cliente de escritorio (**C#**) y app móvil (**Java / Android**).
-- [DaztlServer](https://github.com/zaidoskate/DaztlServer) — API REST en Django
-- [DaztlClient](https://github.com/zaidoskate/DaztlClient) — Cliente de escritorio en C#
-- [DaztlMobile](https://github.com/zaidoskate/DaztlMobile) — App Android en Java
+#### [Daztl](https://github.com/zaidoskate/DaztlServer) — Music streaming platform
+A full Spotify-style ecosystem split across three repositories: server (**Python / Django REST Framework**), desktop client (**C#**), and mobile app (**Java / Android**).
+- [DaztlServer](https://github.com/zaidoskate/DaztlServer) — REST API built with Django
+- [DaztlClient](https://github.com/zaidoskate/DaztlClient) — Desktop client in C#
+- [DaztlMobile](https://github.com/zaidoskate/DaztlMobile) — Android app in Java
 
-`Python` `Django REST Framework` `C#` `Java` `Android` `Arquitectura Cliente-Servidor`
+`Python` `Django REST Framework` `C#` `Java` `Android` `Client-Server Architecture`
 
-#### 🎨 [PaintZ](https://github.com/zaidoskate/PaintZ)
-Herramienta de dibujo web con manejo de sesiones y exportación a SVG. Backend en **Python Flask** con persistencia en **SQLite3**.
+#### [PaintZ](https://github.com/zaidoskate/PaintZ)
+Web-based drawing tool with session handling and SVG export. Backend built with **Python Flask** and **SQLite3** persistence.
 `Python` `Flask` `SQLite3` `JavaScript` `SVG`
 
 ---
 
-### 🔐 Programación segura
+### Secure Coding
 
-Como parte de mi formación en seguridad de software, he trabajado una serie de laboratorios prácticos identificando y corrigiendo vulnerabilidades reales del catálogo **CWE (Common Weakness Enumeration)** — incluyendo buffer overflows, SQL injection, XSS, use-after-free, shellcode e integer overflow — en C, PHP, Python y Assembly.
+As part of my security-focused training, I've worked through a series of hands-on labs identifying and fixing real vulnerabilities from the **CWE (Common Weakness Enumeration)** catalog — including buffer overflows, SQL injection, XSS, use-after-free, shellcode, and integer overflow — across C, PHP, Python, and Assembly.
 
-📁 Explora los repos `cwe-*` en mi perfil para ver los ejercicios completos, incluyendo un [modelado de amenazas](https://github.com/zaidoskate/modelado-amenazas) y un ejercicio de [DNS Hijacking](https://github.com/zaidoskate/HijackingDNS).
+Check out the `cwe-*` repos on my profile for the full exercises, including a [threat modeling project](https://github.com/zaidoskate/modelado-amenazas) and a [DNS Hijacking](https://github.com/zaidoskate/HijackingDNS) exercise.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=zaidoskate&show_icons=true&theme=default&hide_border=true" />
@@ -95,6 +95,6 @@ Como parte de mi formación en seguridad de software, he trabajado una serie de 
 ---
 
 <p align="center">
-  📫 <a href="mailto:zaidskate@hotmail.com">zaidskate@hotmail.com</a> · 
-  💼 <a href="https://www.linkedin.com/in/zaid-vazquez/">LinkedIn</a>
+  <a href="mailto:zaidskate@hotmail.com">zaidskate@hotmail.com</a> · 
+  <a href="https://www.linkedin.com/in/zaid-vazquez/">LinkedIn</a>
 </p>
