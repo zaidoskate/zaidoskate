@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zaid-vazquez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:zaidskate@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:zaidvr19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -86,6 +86,6 @@ Check out the `cwe-*` repos on my profile for the full exercises, including a [t
 ---
 
 <p align="center">
-  <a href="mailto:zaidskate@hotmail.com">zaidskate@hotmail.com</a> · 
+  <a href="mailto:zaidvr19@gmail.com">zaidskate@hotmail.com</a> · 
   <a href="https://www.linkedin.com/in/zaid-vazquez/">LinkedIn</a>
 </p>
