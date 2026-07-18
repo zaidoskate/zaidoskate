@@ -85,15 +85,6 @@ Check out the `cwe-*` repos on my profile for the full exercises, including a [t
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zaidoskate&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidoskate&layout=compact&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   <a href="mailto:zaidskate@hotmail.com">zaidskate@hotmail.com</a> · 
   <a href="https://www.linkedin.com/in/zaid-vazquez/">LinkedIn</a>
