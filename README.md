@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zaid-vazquez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:zaidvr19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:zaidoskate@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -17,11 +17,19 @@ Final-year Software Engineering student at Universidad Veracruzana, with hands-o
 
 I build full-stack applications, from desktop video games to streaming platforms, and I'm currently expanding my stack toward **Go, Python, and Next.js**.
 
-- Currently building backend projects with **Go + PostgreSQL + Next.js**
+- Currently interning at **Clever Cloud**, building a full-stack web application (PHP + Vue.js)
 - Learning & sharpening: **Go, Python, Next.js**
-- About to start a remote web application development internship
+- Contributing to open source — see below
 - Looking for my first full-time role as a **Junior Software Engineer (Backend/Full-Stack)** in Mexico City or remote
 - Ask me about Java, C#, Vue.js, Docker, or client-server application architecture
+
+---
+
+### Open Source
+
+**[initializ/forge](https://github.com/initializ/forge)** — Contributed two new weather-lookup shell scripts (`weather-current.sh`, `weather-forecast.sh`), including input validation, URL-encoding via `jq`, HTTP status handling, and defensive error handling. The PR passed an adversarial security review covering command injection, SSRF, and secrets handling before being merged.
+- [PR #354](https://github.com/initializ/forge/pull/354) — Merged
+- [Issue #357](https://github.com/initializ/forge/issues/357) — Bug independently discovered and reported during the contribution
 
 ---
 
@@ -43,6 +51,7 @@ I build full-stack applications, from desktop video games to streaming platforms
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=windows&logoColor=white)
 
 **Data & DevOps**
@@ -59,33 +68,32 @@ I build full-stack applications, from desktop video games to streaming platforms
 
 ### Featured Projects
 
-#### [ExamExplosion](https://github.com/zaidoskate/ExamExplosion)
-Desktop video game built with **C# / WPF (.NET Framework)** using a client-server model, with **Dockerized** data persistence.
-`C#` `WPF` `.NET Framework` `Docker` `Client-Server`
-
-#### [Daztl](https://github.com/zaidoskate/DaztlServer) — Music streaming platform
-A full Spotify-style ecosystem split across three repositories: server (**Python / Django REST Framework**), desktop client (**C#**), and mobile app (**Java / Android**).
-- [DaztlServer](https://github.com/zaidoskate/DaztlServer) — REST API built with Django
+#### [Daztl](https://github.com/zaidoskate/DaztlServer) — Distributed music streaming platform
+A Spotify-style ecosystem split across three coordinated repositories, demonstrating one backend serving structurally different clients — the same pattern real streaming platforms use.
+- [DaztlServer](https://github.com/zaidoskate/DaztlServer) — REST API built with Django REST Framework
 - [DaztlClient](https://github.com/zaidoskate/DaztlClient) — Desktop client in C#
 - [DaztlMobile](https://github.com/zaidoskate/DaztlMobile) — Android app in Java
 
 `Python` `Django REST Framework` `C#` `Java` `Android` `Client-Server Architecture`
 
+#### [Secure Coding & Threat Modeling Labs](https://github.com/zaidoskate/modelado-amenazas)
+Hands-on identification and remediation of real vulnerabilities from the **CWE catalog** — SQL injection, XSS, buffer overflow, use-after-free, integer overflow, shellcode — across C, PHP, Python, and Assembly, plus a dedicated [threat modeling project](https://github.com/zaidoskate/modelado-amenazas) and a [DNS Hijacking exercise](https://github.com/zaidoskate/HijackingDNS).
+
+`C` `PHP` `Python` `Assembly` `Security` `Threat Modeling`
+
 #### [PaintZ](https://github.com/zaidoskate/PaintZ)
-Web-based drawing tool with session handling and SVG export. Backend built with **Python Flask** and **SQLite3** persistence.
+Web-based drawing tool with server-side session handling and SVG export. Backend built with **Python Flask** and **SQLite3** persistence.
+
 `Python` `Flask` `SQLite3` `JavaScript` `SVG`
 
----
+#### [ExamExplosion](https://github.com/zaidoskate/ExamExplosion)
+Desktop video game built with **C# / WPF (.NET Framework)** using a client-server model, with **Dockerized** data persistence.
 
-### Secure Coding
-
-As part of my security-focused training, I've worked through a series of hands-on labs identifying and fixing real vulnerabilities from the **CWE (Common Weakness Enumeration)** catalog — including buffer overflows, SQL injection, XSS, use-after-free, shellcode, and integer overflow — across C, PHP, Python, and Assembly.
-
-Check out the `cwe-*` repos on my profile for the full exercises, including a [threat modeling project](https://github.com/zaidoskate/modelado-amenazas) and a [DNS Hijacking](https://github.com/zaidoskate/HijackingDNS) exercise.
+`C#` `WPF` `.NET Framework` `Docker` `Client-Server`
 
 ---
 
 <p align="center">
-  <a href="mailto:zaidvr19@gmail.com">zaidskate@hotmail.com</a> · 
+  <a href="mailto:zaidvr19@gmail.com">zaidvr19@gmail.com</a> · 
   <a href="https://www.linkedin.com/in/zaid-vazquez/">LinkedIn</a>
 </p>
